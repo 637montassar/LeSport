@@ -1,0 +1,309 @@
+
+/*--------------------------------------------------------------- Sport css ---------------------------------------------------------------------------------*/
+
+#sportheader
+{
+	padding: 60px;
+	color:black;
+	text-align: center;
+    background-image:url("Sport Background.gif");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 1250px 400px;
+    font-size: 30px; 
+}
+.sportmain {
+  margin-left: 140px;
+  font-size: 19px; 
+  padding: 0px 10px;
+}
+
+.sportmain img {
+position:center;}
+
+h1
+{text-align:center;}
+
+ /* nav bar */
+ 
+.sportsidenav {
+  height: 100%;
+  width: 140px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color:  #b119fc;
+  overflow-x: hidden;
+  padding-top: 20;
+}
+
+.sportsidenav a {
+  padding: 20px 8px 60px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color:#000000;
+  display: block;
+  margin-left : -36px
+}
+.sportsidenav a:hover {
+  color:#ffffff ;
+ 
+}
+
+
+.sportname {
+text-align: right ;
+margin-top: -20px;
+margin-right:10px}
+
+
+/* footer */
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin: 0 0 100px;
+    
+    padding: 25px;
+}
+
+#sportfooter {
+    background-color:#b119fc;
+	text-align:center;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 45px;
+    width: 100%;
+    overflow: hidden;
+}
+
+/*----------------------------------------------------------- Athlétisme css --------------------------------------------------------------------------------*/
+#athheader
+{
+	padding: 60px;
+	color:black;
+	text-align: center;
+    background-image:url("Sport Background.gif");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 1250px 400px;
+    font-size: 30px; 
+}
+.athmain {
+  margin-left: 140px;
+  font-size: 19px; 
+  padding: 0px 10px;
+}
+
+
+.athsidenav {
+  height: 100%;
+  width: 140px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color:  #54d907;
+  overflow-x: hidden;
+  padding-top: 20;
+}
+
+.athsidenav a {
+  padding: 20px 8px 60px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color:#000000;
+  display: block;
+  margin-left : -36px
+}
+.athsidenav a:hover {
+  color:#ffffff ;
+}
+
+
+
+
+.athcenter {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+
+
+
+.athname {
+text-align: right ;
+margin-top: -20px;
+margin-right:10px}
+
+
+
+#athfooter {
+    background-color:#54d907;
+	text-align:center;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 45px;
+    width: 100%;
+    overflow: hidden;
+}
+	
+/*--------------------------------------------------------- Natation css -----------------------------------------------------------------------------------*/
+#nataheader
+{
+	padding: 60px;
+	color:black;
+	text-align: center;
+    background-image:url("Sport Background.gif");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 1250px 400px;
+    font-size: 30px; 
+}
+.natamain {
+  margin-left: 140px;
+  font-size: 19px; 
+  padding: 0px 10px;
+}
+.natamain h1 {
+    text-align:center;}
+	
+	
+	
+.natacenter {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+
+.natasidenav {
+  height: 100%;
+  width: 140px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #00e3bd;
+  overflow-x: hidden;
+  padding-top: 20;
+}
+
+.natasidenav a {
+  padding: 20px 8px 60px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color:#000000;
+  display: block;
+  margin-left:-36px
+}
+.natasidenav a:hover {
+  color:#ffffff ;
+ 
+}
+
+.nataname {
+text-align: right ;
+margin-top: -20px;
+margin-right:10px}
+
+}
+
+
+
+.natanatf h1 { text-align : center ; }
+
+
+#natafooter {
+    background-color:#00e3bd;
+	text-align:center;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 45px;
+    width: 100%;
+    overflow: hidden;
+}
+
+
+/*------------------------------------------------------------- Football css -------------------------------------------------------------------------------*/
+
+#footheader 
+{
+padding: 60px; 
+text-align: center;
+background-image: url("Sport background.gif");
+background-position: center;
+background-repeat: no-repeat;
+ background-size: 1250px 400px;
+font-size: 30px;
+    }
+
+.footmain {
+  margin-left: 140px;
+  font-size: 19px; 
+  padding: 0px 10px;
+}
+.footsidenav {
+  height: 100%;
+  width: 140px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color:  #e64500;
+  overflow-x: hidden;
+  padding-top: 20;
+}
+
+.footsidenav a {
+  padding: 20px 8px 60px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color:#000000;
+  display: block;
+  margin-left : -36px
+}
+.footsidenav a:hover {
+  color:#ffffff ;
+}
+
+.footcenter {
+  display: block;
+  margin-left: 300px;
+  margin-right: auto;
+  
+}
+
+
+.footname {
+text-align: right ;
+margin-top: -20px;
+margin-right:10px}
+
+#footfooter {
+    background-color:#e64500;
+	text-align:center;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 45px;
+    width: 100%;
+    overflow: hidden;
+}
+
+
+
+	
+
+
+
+
